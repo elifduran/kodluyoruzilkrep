@@ -2,7 +2,7 @@
 
 <h4>Bu repo Kodluyoruz .NET Core Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.<h4>
 <br>
-<img src="images/project-image.PNG">
+<img src="GIT assignment/images/project-image.PNG">
 
 # Installation
 
